@@ -1,0 +1,91 @@
+{
+    "totalFollowers": "23,004",
+    "followersDetail": [
+        {
+            "id": 1,
+            "socialMediaName": "facebook",
+            "username": "@nathanf",
+            "followersCount": 1987,
+            "followersToday": 12
+        },
+        {
+            "id": 2,
+            "socialMediaName": "twitter",
+            "username": "@nathanf",
+            "followersCount": 1044,
+            "followersToday": 99
+        },
+        {
+            "id": "3",
+            "socialMediaName": "instagram",
+            "username": "@realnathanf",
+            "followersCount": "11k",
+            "followersToday": 99
+        },
+        {
+            "id": "4",
+            "socialMediaName": "youtube",
+            "username": "Nathan F.",
+            "followersCount": 8239,
+            "followersToday": -144
+        }
+    ],
+    "followersOverview": [
+        {
+            "id": "1",
+            "socialMediaName": "facebook",
+            "count": 87,
+            "countLabel": "Page views", 
+            "percent": 3
+        },
+        {
+            "id": "2",
+            "socialMediaName": "facebook",
+            "count": 52,
+            "countLabel": "Likes", 
+            "percent": -2
+        },
+        {
+            "id": "3",
+            "socialMediaName": "instagram",
+            "count": 5462,
+            "countLabel": "Likes", 
+            "percent": 2257
+        },
+        {
+            "id": "4",
+            "socialMediaName": "instagram",
+            "count": "52k",
+            "countLabel": "Profile Views", 
+            "percent": 1375
+        },
+        {
+            "id": "5",
+            "socialMediaName": "twitter",
+            "count": 117,
+            "countLabel": "Retweets", 
+            "percent": 303
+        },
+        {
+            "id": "6",
+            "socialMediaName": "twitter",
+            "count": 507,
+            "countLabel": "Likes", 
+            "percent": 553
+        },
+        {
+            "id": "7",
+            "socialMediaName": "youtube",
+            "count": 107,
+            "countLabel": "Likes", 
+            "percent": -19
+        },
+        {
+            "id": "8",
+            "socialMediaName": "youtube",
+            "count": 1407,
+            "countLabel": "Total Views", 
+            "percent": -12
+        }
+    ]
+}
